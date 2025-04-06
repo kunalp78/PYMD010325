@@ -1,0 +1,14 @@
+[
+  {
+    "title": "DDLJ",
+    "showtime": "10:30 PM 5/06/2025",
+    "total_seats": 120,
+    "available_seats": 115
+  },
+  {
+    "title": "Fantastic 4",
+    "showtime": "9:30AM",
+    "total_seats": 120,
+    "available_seats": 75
+  }
+]
